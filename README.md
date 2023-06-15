@@ -28,4 +28,4 @@ In summary, my experience with applications, microservices, and DevOps qualifies
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-guimaraes&show_icons=true&theme=darcula&)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-guimaraes&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)
