@@ -11,6 +11,6 @@
 
 ## 🤝 Ping me
 
-[![franklin](https://img.shields.io/badge/franklin.cassiano.gft@youse.com.br-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklin.cassiano.gft@youse.com.br)
+[![franklin](https://img.shields.io/badge/youse-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklin.cassiano.gft@youse.com.br)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](https://t.me/franklinguimaraes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-guimaraes/)
