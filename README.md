@@ -25,10 +25,10 @@ In summary, my experience with applications, microservices, and DevOps qualifies
 
 [![franklin](https://img.shields.io/badge/youse-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklin.cassiano.gft@youse.com.br) [![franklin](https://img.shields.io/badge/personal-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklincassiano@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](https://t.me/franklinguimaraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-guimaraes/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franklinguimaraes) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22n4dja45imbiykgmusxnqati?si=89ff5f3b53114b82)
 
-## My stats 
+---
 
 <div>
-  <a href="https://github.com/guimaraes-franklin">
+  <a href="https://github.com/franklin-guimaraes">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=franklin-guimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-guimaraes&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
