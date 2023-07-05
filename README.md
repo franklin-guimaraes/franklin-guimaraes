@@ -3,7 +3,7 @@
 - 🌇 I live in São Paulo, Brasil!
 - 👨🏾‍💻 I'm a proudly Software Engineer at [Youse](https://www.youse.com.br/)
 - 💻 I'm writing on Java (Spring Boot) with ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) :heart:
-- ✉️ You can shoot me an email at [yousemail](mailto:franklin.cassiano.gft@youse.com.br) or [personmail](mailto:franklincassiano@gmail.com)
+- ✉️ You can shoot me an email at [yousemail](mailto:franklin.cassiano.gft@youse.com.br) or [personmail](mailto:franklinguimaraes.com)
 
 ## 🔏 About me
 
@@ -23,4 +23,4 @@ In summary, my experience with applications, microservices, and DevOps qualifies
 ## 📲 Feel free to ping and/or follow me on ⤵️
 
 
-[![franklin](https://img.shields.io/badge/youse-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklin.cassiano.gft@youse.com.br) [![franklin](https://img.shields.io/badge/personal-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklincassiano@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](https://t.me/franklinguimaraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-guimaraes/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franklinguimaraes) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22n4dja45imbiykgmusxnqati?si=89ff5f3b53114b82)
+[![franklin](https://img.shields.io/badge/youse-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklin.cassiano.gft@youse.com.br) [![franklin](https://img.shields.io/badge/personal-mail-EA4335.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:franklinguimaraes.com) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](https://t.me/franklinguimaraes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-guimaraes/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franklinguimaraes) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22n4dja45imbiykgmusxnqati?si=89ff5f3b53114b82)
